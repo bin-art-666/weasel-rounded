@@ -9,7 +9,7 @@ using System.Windows.Forms;
 
 [assembly: AssemblyTitle("小狼毫 · 通透圆角版安装程序")]
 [assembly: AssemblyProduct("小狼毫 · 通透圆角版")]
-[assembly: AssemblyVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.0.1.0")]
 class SetupForm : Form {
     Label status;
     Button install;

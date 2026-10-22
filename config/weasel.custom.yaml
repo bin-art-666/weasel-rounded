@@ -5,6 +5,8 @@ patch:
   "style/color_scheme_dark": apple_round_dark
   "style/horizontal": true
   "style/inline_preedit": true
+  # Abbreviate display only; the input engine still commits the complete candidate.
+  "style/candidate_abbreviate_length": 12
   "style/font_face": "Microsoft YaHei UI"
   "style/label_font_face": "Microsoft YaHei UI"
   "style/comment_font_face": "Microsoft YaHei UI"
