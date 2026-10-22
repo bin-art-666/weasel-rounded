@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "weasel": {
+    "version": "0.17.4",
+    "url": "https://github.com/rime/weasel/releases/download/0.17.4/weasel-0.17.4.0-installer.exe",
+    "sha256": "CF509534A8F5F8AF9C98ED7CBB8F135439F145A8CBE7E50EDE42BB5B5AB45C29",
+    "source": "https://github.com/rime/weasel/tree/0.17.4"
+  },
+  "rimeIce": {
+    "commit": "da1fbe602e38f26db846fa10120ee64c2b0324c0",
+    "url": "https://codeload.github.com/iDvel/rime-ice/zip/da1fbe602e38f26db846fa10120ee64c2b0324c0",
+    "sha256": "AD71F7D8A63F8AE2D29A745D4BE87BE8827598DEC5A18FC23009869FB72329C0",
+    "source": "https://github.com/iDvel/rime-ice/tree/da1fbe602e38f26db846fa10120ee64c2b0324c0"
+  }
+}

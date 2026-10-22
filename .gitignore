@@ -1,0 +1,7 @@
+/build/
+/dist/
+*.userdb/
+*.log
+installation.yaml
+user.yaml
+.vs/

@@ -1,0 +1,58 @@
+# Apple-inspired rounded translucent theme for Weasel 0.17.4+
+# Translucency only: this does not add backdrop blur or refraction.
+patch:
+  "style/color_scheme": apple_round_light
+  "style/color_scheme_dark": apple_round_dark
+  "style/horizontal": true
+  "style/inline_preedit": true
+  "style/font_face": "Microsoft YaHei UI"
+  "style/label_font_face": "Microsoft YaHei UI"
+  "style/comment_font_face": "Microsoft YaHei UI"
+  "style/font_point": 14
+  "style/label_font_point": 10
+  "style/comment_font_point": 11
+  "style/label_format": "%s"
+  "style/layout/border_width": 1
+  "style/layout/corner_radius": 24
+  "style/layout/round_corner": 16
+  "style/layout/margin_x": 12
+  "style/layout/margin_y": 10
+  "style/layout/hilite_padding": 5
+  "style/layout/hilite_spacing": 5
+  "style/layout/candidate_spacing": 14
+  "style/layout/spacing": 8
+  "style/layout/shadow_radius": 12
+  "style/layout/shadow_offset_x": 0
+  "style/layout/shadow_offset_y": 4
+  "preset_color_schemes/apple_round_light":
+    name: "苹果圆角·浅色"
+    author: "Custom"
+    back_color: 0xd9fafafa
+    border_color: 0x90ffffff
+    shadow_color: 0x26000000
+    text_color: 0x302c28
+    candidate_text_color: 0x302c28
+    label_color: 0x918b85
+    comment_text_color: 0x86807a
+    hilited_text_color: 0xffffff
+    hilited_back_color: 0xff7a00
+    hilited_candidate_text_color: 0xffffff
+    hilited_candidate_back_color: 0xff7a00
+    hilited_label_color: 0xffffff
+    hilited_comment_text_color: 0xffffff
+  "preset_color_schemes/apple_round_dark":
+    name: "苹果圆角·深色"
+    author: "Custom"
+    back_color: 0xd932302e
+    border_color: 0x60656260
+    shadow_color: 0x50000000
+    text_color: 0xf5f5f5
+    candidate_text_color: 0xf5f5f5
+    label_color: 0xaaa5a0
+    comment_text_color: 0xaaa5a0
+    hilited_text_color: 0xffffff
+    hilited_back_color: 0xff8410
+    hilited_candidate_text_color: 0xffffff
+    hilited_candidate_back_color: 0xff8410
+    hilited_label_color: 0xffffff
+    hilited_comment_text_color: 0xffffff
